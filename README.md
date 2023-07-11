@@ -28,7 +28,8 @@
 
 #### 2. Admin/Seller
 <ul>
-<li> Admin after creating an account opens their dashboards and creates different products. First, they create a new product category or select an existing product category then added an image and set the product name, description, and price.</li>
+<li> Admin after creating an account opens their dashboards and creates different products. </li>
+<li>  First, they create a new product category or select an existing product category then added an image and set the product name, description, and price. </li>
 <li> Whatever products are created by the admin all products are shown on the homepage. After creating a product admin can update or delete this product. </li>
 </ul>
 
