@@ -42,7 +42,7 @@
            <th>Mongodb</th>
         </tr>
           <tr>
-           <th>React</th>
+           <th>React.js</th>
            <th>Braintree Payment Gateway</th>
          </tr>
       </tbody>    
