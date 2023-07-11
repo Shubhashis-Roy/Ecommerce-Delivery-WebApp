@@ -39,12 +39,13 @@
         <tr>
            <th>Node.js</th>
           <th>Express.js</th>
-           <th>REST API</th>
            <th>Mongodb</th>
+           <th>Braintree Payment Gateway</th>
         </tr>
           <tr>
            <th>React.js</th>
-           <th>Braintree Payment Gateway</th>
+           <th>REST API</th>
+           <th>Context API</th>
          </tr>
       </tbody>    
 </table>
