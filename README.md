@@ -46,4 +46,20 @@
            <th>Braintree Payment Gateway</th>
          </tr>
       </tbody>    
-</table
+</table>
+
+### <b> NPM Packages </b>
+- bcrypy
+- braintree
+- concurrently
+- cors
+- dotenv
+- express
+- express-formidable
+- mongoose
+- morgan
+- nodemon
+### Other Applications
+- Thunder Client
+- Postman
+- Vs Code
