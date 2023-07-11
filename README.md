@@ -18,7 +18,7 @@
 <li> After Sign up, users can add their favorite products to the cart, choose a payment option, and finally place the order for delivery. </li>
 </ul>
 
-### Concepts
+### Concepts:
 #### This Project is building on Two basic concepts
 #### 1. Users                                                           
 <ul>                                                              
