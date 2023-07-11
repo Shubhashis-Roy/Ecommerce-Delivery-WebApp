@@ -31,3 +31,19 @@
 <li> Admin after creating an account opens their dashboards and creates different products. First, they create a new product category or select an existing product category then added an image and set the product name, description, and price.</li>
 <li> Whatever products are created by the admin all products are shown on the homepage. After creating a product admin can update or delete this product. </li>
 </ul>
+
+<h2>Technologies</h2>
+<table>
+      <tbody>
+        <tr>
+           <th>Node.js</th>
+          <th>Express.js</th>
+           <th>REST API</th>
+           <th>Mongodb</th>
+        </tr>
+          <tr>
+           <th>React</th>
+           <th>Braintree Payment Gateway</th>
+         </tr>
+      </tbody>    
+</table
