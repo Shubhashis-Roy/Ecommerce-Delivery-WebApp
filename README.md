@@ -20,13 +20,13 @@
 
 ### Concepts
 #### This Project is building on Two basic concepts
-### 1. Users                                                           
+#### 1. Users                                                           
 <ul>                                                              
 <li> After opening the application users see all the products on the home page and then they can search or filter products according to their needs. </li>   
 <li> Then select a particular product User can add this product to the cart and then they singup their account (using email) and select a payment method and finally placed it for delivery. </li> 
 </ul>
 
-### 2. Admin/Seller
+#### 2. Admin/Seller
 <ul>
 <li> Admin after creating an account opens their dashboards and creates different products. First, they create a new product category or select an existing product category then added an image and set the product name, description, and price.</li>
 <li> Whatever products are created by the admin all products are shown on the homepage. After creating a product admin can update or delete this product. </li>
