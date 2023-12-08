@@ -11,7 +11,7 @@
 
 <hr />
 
-<h3> <a href= "https://charming-lime-scallop.cyclic.cloud" >View Demo</a> </h3>
+<h3> <a href= "https://charming-lime-scallop.cyclic.cloud" >Live Demo</a> </h3>
 
 <div style="display:flex;">
 <p>Login as Admin: <br/> Email: admin@gmail.com <br/> Password: 123456 </p>
